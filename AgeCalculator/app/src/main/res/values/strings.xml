@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AgeCalculator</string>
+    <string name="enter_first_name">Enter first name</string>
+    <string name="enter_last_name">Enter last name</string>
+    <string name="select_dob">Select DOB</string>
+    <string name="calculate_age">Calculate Age</string>
+    <string name="firstName_format">First name: \"%s\"</string>
+    <string name="lastName_format">Last name: \"%s\"</string>
+    <string name="dob_format">Age: %d years , %d month, %d days</string>
+    <string name="user_detail">User Profile Information</string>
+    <string name="dob">%d/%d/%d</string>
+    <string name="error_firstName">Please enter valid first name</string>
+    <string name="error_lastName">Please enter valid last name</string>
+    <string name="error_dob">Please select valid DOB</string>
+</resources>
